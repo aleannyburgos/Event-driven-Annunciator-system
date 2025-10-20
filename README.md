@@ -72,7 +72,6 @@ The circuit detects and signals alarm conditions based on simulated input events
 - State Diagram (with flashing states)  
 - Memory Table in Excel  
 - Connection Diagram  
-- Programmed EEPROM and functioning circuit
-- Picture of Circuit
+- Picture of Programmed EEPROM and functioning circuit
 - Video Demonstration
 
