@@ -73,5 +73,6 @@ The circuit detects and signals alarm conditions based on simulated input events
 - Memory Table in Excel  
 - Connection Diagram  
 - Programmed EEPROM and functioning circuit
+- Picture of Circuit
 - Video Demonstration
 
